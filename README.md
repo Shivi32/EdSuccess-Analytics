@@ -143,8 +143,8 @@ Program and Semester slicers were configured and validated to support interactiv
 | Average Attendance | 69.1% |
 | Pass Rate | 70.0% |
 | Assignment Submission Rate | 50.2% |
-| At-Risk Students | 157 |
-| Average Course Completion | 50.6% |
+| At-Risk Students | 178 |
+| Average Course Completion | 49.7% |
 | Average Feedback Rating | 3.1 / 5 |
 | SLA Compliance | 39.7% |
 | Open Tickets | 1,793 |
@@ -155,7 +155,7 @@ Program and Semester slicers were configured and validated to support interactiv
 
 The dashboard highlighted several areas requiring management attention:
 
-- **31.4% of students were classified as high risk**, creating a priority population for academic and student-support intervention.
+- **35.6% of students were classified as high risk**, creating a priority population for academic and student-support intervention.
 - **Average attendance was 69.1%**, below the 75% threshold used in the project's attendance logic.
 - **Assignment submission was 50.2%**, indicating an opportunity to improve student engagement and academic follow-up.
 - **The overall pass rate was 70.0%**, leaving a 30% non-passing group for further performance analysis and targeted academic support.
