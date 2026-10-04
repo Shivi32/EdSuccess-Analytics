@@ -345,6 +345,7 @@ EdSuccess-Analytics/
 │
 └── docs/
     └── EdSuccess_Portfolio_Summary.pdf
+```
 
 ## Skills Demonstrated
 
